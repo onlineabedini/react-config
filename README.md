@@ -1,2 +1,7 @@
-# react-config
-react - vite - tailwind
+# React + Vite - Config
+
+- Vite
+- React - 18
+- Tailwind
+- flat-icon
+- Scss
